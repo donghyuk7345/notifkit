@@ -1,6 +1,6 @@
 {
   "name": "notifkit",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "Self-hosted notification infrastructure for product notifications. One API call handles email, SMS, push, and webhooks, with preferences, quiet hours, retries, fallback, scheduling, workflows, and delivery logs built in.",
   "main": "src/index.ts",
   "scripts": {
